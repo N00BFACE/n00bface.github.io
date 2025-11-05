@@ -1,5 +1,9 @@
-theme: jekyll-theme-minimal # Or 'jekyll-theme-cayman' for a portfolio look
 title: Bishal Shrestha | WordPress Plugin Developer
-description: > # Write a short professional summary from your CV
-  Backend Developer skilled in PHP, React, and Gutenberg block development,
-  specializing in complex WordPress plugin features and payment integrations.
+description: > # This description remains for SEO/social sharing.
+  Backend Developer proficient in PHP, React, and Gutenberg block development, specializing 
+  in AI integration (ChatGPT, TogetherAI) and complex payment systems (Paddle, Stripe).
+url: "https://yourusername.github.io" # Replace with your actual GitHub Pages URL
+baseurl: "" # Keep this blank for a user site (user.github.io) or repo site (/repo-name)
+exclude:
+  - "node_modules"
+  - "vendor"
