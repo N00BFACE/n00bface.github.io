@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Bishal Shrestha</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Bishal Shrestha</description>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;A dedicated &lt;strong&gt;Backend Developer&lt;/strong&gt; with &lt;strong&gt;over 3 years of experience&lt;/strong&gt; specializing in &lt;strong&gt;WordPress Plugin Development&lt;/strong&gt;. Highly proficient in &lt;strong&gt;PHP, React JS&lt;/strong&gt;, and &lt;strong&gt;Gutenberg block development&lt;/strong&gt;. Expertise in integrating complex e-commerce features and &lt;strong&gt;leveraging AI APIs (ChatGPT, TogetherAI)&lt;/strong&gt; to automate content and image creation.&lt;/p&gt;
+&lt;h2 id=&#34;technical-expertise&#34;&gt;Technical Expertise&lt;/h2&gt;
+&lt;h3 id=&#34;core-languages&#34;&gt;Core Languages&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;PHP&lt;/strong&gt;, &lt;strong&gt;React JS&lt;/strong&gt;, JavaScript, CSS, HTML&lt;/p&gt;
+&lt;h3 id=&#34;wordpress-development&#34;&gt;WordPress Development&lt;/h3&gt;
+&lt;p&gt;Plugin &amp;amp; Theme Development, &lt;strong&gt;Gutenberg Blocks&lt;/strong&gt;, Custom Post Types (CPTs), Hooks and Filters&lt;/p&gt;
+&lt;h3 id=&#34;e-commerce--payments&#34;&gt;E-commerce &amp;amp; Payments&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;PayPal&lt;/strong&gt;, &lt;strong&gt;Stripe&lt;/strong&gt;, &lt;strong&gt;Paddle PGW&lt;/strong&gt;, WooCommerce Payments, PayU, Midtrans&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/contact/</guid>
+      <description>&lt;h2 id=&#34;get-in-touch&#34;&gt;Get in Touch&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;GitHub:&lt;/strong&gt; &lt;a href=&#34;https://github.com/N00BFACE&#34;&gt;github.com/N00BFACE&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;LinkedIn:&lt;/strong&gt; &lt;a href=&#34;https://linkedin.com/in/bishal-shrestha-404553274&#34;&gt;linkedin.com/in/bishal-shrestha-404553274&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Email:&lt;/strong&gt; &lt;a href=&#34;mailto:bishalkumar45657@gmail.com&#34;&gt;bishalkumar45657@gmail.com&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Experience</title>
+      <link>http://localhost:1313/experience/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/experience/</guid>
+      <description>&lt;h2 id=&#34;backend-developer--wordpress-plugin-developer&#34;&gt;Backend Developer / WordPress Plugin Developer&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Codewing Solutions&lt;/strong&gt; | &lt;em&gt;May 2021 – Present&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Spearheaded AI integration&lt;/strong&gt; using the &lt;strong&gt;ChatGPT&lt;/strong&gt; and &lt;strong&gt;TogetherAI&lt;/strong&gt; APIs to automate recipe and image creation for plugins, significantly boosting content generation efficiency.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Integrated&lt;/strong&gt; critical payment gateways, now including &lt;strong&gt;Paddle PGW&lt;/strong&gt;, along with PayPal, Stripe, and others, ensuring robust e-commerce functionality.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Engineered&lt;/strong&gt; complex and advanced features, including &lt;strong&gt;partial payments&lt;/strong&gt; and an &lt;strong&gt;advanced itinerary builder&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Developed&lt;/strong&gt; and maintained WordPress plugins using a modern stack (&lt;strong&gt;PHP&lt;/strong&gt; for the backend and &lt;strong&gt;React JS&lt;/strong&gt; for dynamic interfaces).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Led&lt;/strong&gt; feature development for &lt;strong&gt;WP Delicious&lt;/strong&gt; and contributed significantly to &lt;strong&gt;WP Travel Engine&lt;/strong&gt;, coordinating releases.&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Projects</title>
+      <link>http://localhost:1313/projects/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/</guid>
+      <description>&lt;h2 id=&#34;ai-powered-content-automation&#34;&gt;AI-Powered Content Automation&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;New Feature&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Goal:&lt;/strong&gt; Automated recipe and image creation within a plugin environment.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Technologies:&lt;/strong&gt; &lt;strong&gt;ChatGPT API&lt;/strong&gt;, &lt;strong&gt;TogetherAI API&lt;/strong&gt;, PHP.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Achievement:&lt;/strong&gt; Implemented logic to pass context-rich information to the API, enabling seamless, partial, and full recipe generation by the AI engine.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;wp-travel-engine--delicious-recipes&#34;&gt;WP Travel Engine &amp;amp; Delicious Recipes&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;WordPress Plugins&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Focus:&lt;/strong&gt; Contributed to core functionality, developed premium features, and integrated global payment solutions like &lt;strong&gt;Paddle&lt;/strong&gt; and Stripe.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Technologies:&lt;/strong&gt; PHP, React, Gutenberg Blocks.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,9 +1,0 @@
-title: Bishal Shrestha | WordPress Plugin Developer
-description: > # This description remains for SEO/social sharing.
-  Backend Developer proficient in PHP, React, and Gutenberg block development, specializing 
-  in AI integration (ChatGPT, TogetherAI) and complex payment systems (Paddle, Stripe).
-url: "https://yourusername.github.io" # Replace with your actual GitHub Pages URL
-baseurl: "" # Keep this blank for a user site (user.github.io) or repo site (/repo-name)
-exclude:
-  - "node_modules"
-  - "vendor"
