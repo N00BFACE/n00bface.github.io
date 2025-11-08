@@ -17,6 +17,7 @@ params:
     Title: 'Bishal Shrestha'
     Content: 'WordPress Plugin Developer'
     Description: 'Backend Developer with over 3 years of experience specializing in WordPress Plugin Development. Highly proficient in PHP, React JS, and Gutenberg block development. Expertise in integrating complex e-commerce features and leveraging AI APIs (ChatGPT, TogetherAI) to automate content and image creation.'
+    # profilePicture: '/images/profile.jpg'  # Uncomment and add your profile picture
   
   # Social links
   socialIcons:
@@ -29,19 +30,23 @@ params:
   
   # Show social icons
   ShowReadingTime: false
-  ShowPostNavLinks: true
+  ShowPostNavLinks: false
   ShowBreadCrumbs: false
   ShowCodeCopyButtons: false
   ShowWordCount: false
   ShowRssButtonInSectionTermList: false
   UseHugoToc: false
-  disableSpecial1stPost: false
-  disableScrollToTop: false
+  disableSpecial1stPost: true
+  disableScrollToTop: true
   comments: false
-  hidemeta: false
-  hideSummary: false
+  hidemeta: true
+  hideSummary: true
   showtoc: false
   tocopen: false
+  
+  # Hide PaperMod default elements
+  ShowShareButtons: false
+  ShowPostNavLinks: false
 
 menu:
   main:
